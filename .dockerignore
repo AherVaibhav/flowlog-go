@@ -1,0 +1,13 @@
+.git
+.gitignore
+
+flowlog-server
+
+**/*_test.go
+
+flows.log
+
+README.md
+
+.vscode
+*.swp
